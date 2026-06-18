@@ -15,11 +15,11 @@ Are there significant differences in adoption patterns across regions?
 
 * Tools and Techniques:
 
-Python
-Pandas
-Data Cleaning
-Exploratory Data Analysis
-Data Visualization
+Python |
+Pandas |
+Data Cleaning |
+Exploratory Data Analysis |
+Data Visualization |
 
 * Key Findings:
 
