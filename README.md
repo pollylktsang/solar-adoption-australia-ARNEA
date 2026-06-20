@@ -9,9 +9,9 @@ The objective is to identify geographic trends in solar uptake, compare adoption
 
 * Key Questions:
 
-- Which states and territories have the highest levels of solar adoption?
-- How has solar adoption changed over time?
-- Are there significant differences in adoption patterns across regions?
+# Which states and territories have the highest levels of solar adoption?
+# How has solar adoption changed over time?
+# Are there significant differences in adoption patterns across regions?
 
 * Tools and Techniques:
 
